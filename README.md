@@ -6,6 +6,10 @@ This file is the template for the first lab in Ashesi Web Development 2020.
 
 This repository contains a single file, a script for gathering the basic configuration of the user from bash.
 
+Name: Nana Kofi Boakye
+ID: 91902022
+Link to my website: https://djinnsend.github.io/lab-1
+
 ## Using the file
 
 Please refer to your lab instructions for definitive directions. In general, clone this repository to a new repository in your user space.
